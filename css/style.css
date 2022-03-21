@@ -1,0 +1,29 @@
+body {
+  font: 20px "Helvetica Neue", Helvetica, Arial;
+}
+.navbar {
+  background-color: rgb(243, 230, 230);
+}
+
+.navbar-brand {
+  margin: 10px 50px 0px 40px;
+}
+#quemsomos {
+  padding: 50px;
+  background-color: rgb(245, 239, 239);
+  justify-content: space-between;
+}
+
+.margin {
+  margin-bottom: 50px;
+  margin-top: 10px;
+}
+
+.col-lg-4:first-child {
+  padding: 20px;
+}
+
+.servicos {
+  padding: 50px;
+  background-color: rgb(246, 242, 242);
+}
